@@ -39,3 +39,8 @@ To run this project locally, follow these steps:
 ## screenshoots
 ![Screenshot 1](images/mainPage.png)
 ![Screenshot 2](images/singleImage.png)
+
+
+
+## Assignment
+`` to run questions you have to navigate to questions folder then run node assign1.js/assign2.js via terminal ``
