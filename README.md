@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 ## Usage
 
 - Click on any image to view it in fullscreen mode.
-- Use the left (`&#10094;`) and right (`&#10095;`) arrows to navigate between images in fullscreen mode.
+- Use the left and right arrows to navigate between images in fullscreen mode.
 - Click anywhere outside the image (or on the close button if implemented) to exit fullscreen mode.
 
 ## screenshoots
