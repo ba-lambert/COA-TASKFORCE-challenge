@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/interactive-photo-gallery.git
+    git clone https://github.com/ba-lambert/COA-TASKFORCE-challenge
     ```
 
 2. **Navigate to the project directory**:
@@ -37,3 +37,5 @@ To run this project locally, follow these steps:
 - Click anywhere outside the image (or on the close button if implemented) to exit fullscreen mode.
 
 ## screenshoots
+![Screenshot 1](images/mainPage.png.png)
+![Screenshot 2](images/singleImage.png.png)
