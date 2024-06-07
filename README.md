@@ -37,7 +37,9 @@ To run this project locally, follow these steps:
 - Click anywhere outside the image (or on the close button if implemented) to exit fullscreen mode.
 
 ## screenshoots
+`` Main Screen ``
 ![Screenshot 1](images/mainPage.png)
+`` Single Page ``
 ![Screenshot 2](images/singleImage.png)
 
 
