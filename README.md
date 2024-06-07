@@ -38,9 +38,9 @@ To run this project locally, follow these steps:
 
 ## screenshoots
 `` Main Screen ``
-![Screenshot 1](images/mainPage.png)
+![Screenshot 1](images/mainScreen.png)
 `` Single Page ``
-![Screenshot 2](images/singleImage.png)
+![Screenshot 2](images/image.png)
 
 
 
